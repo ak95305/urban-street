@@ -845,4 +845,8 @@ footer .email-input .sub-btn{
     header .bi-search, header .bi-person{
         display: none;
     }
+    .navbar-mob > ul{
+        width: 80%;
+        left: -80%;
+    }
 }
