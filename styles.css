@@ -855,4 +855,7 @@ footer .social-links a{
         width: 80%;
         left: -80%;
     }
+    footer{
+        padding-bottom: 50px;
+    }
 }
