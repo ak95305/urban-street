@@ -801,7 +801,13 @@ footer .email-input .sub-btn{
     padding: 0 15px;
     border-radius: 20px;
 }
-
+footer .social-links{
+    margin-top: 20px;
+}
+footer .social-links a{
+    margin-right: 5px;
+    font-size: 18px;
+}
 
 
 
