@@ -842,4 +842,7 @@ footer .email-input .sub-btn{
     .bottom-nav{
         display: flex;
     }
+    header .bi-search, header .bi-person{
+        display: none;
+    }
 }

@@ -1,7 +1,6 @@
 $('.prod-col .owl-carousel').owlCarousel({
     loop: true,
     margin: 10,
-    nav: true,
     responsive: {
         0: {
             items: 2
@@ -19,7 +18,6 @@ $('.prod-col .owl-carousel').owlCarousel({
 $('.sec4-prod-col .owl-carousel, .sec6-prod-col .owl-carousel, .sec6-test .owl-carousel').owlCarousel({
     loop: true,
     margin: 10,
-    nav: true,
     responsive: {
         0: {
             items: 2
@@ -37,7 +35,6 @@ $('.sec4-prod-col .owl-carousel, .sec6-prod-col .owl-carousel, .sec6-test .owl-c
 $('.prod-imgs .owl-carousel').owlCarousel({
     loop: true,
     margin: 10,
-    nav: true,
     items: 1,
 });
 
